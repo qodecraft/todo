@@ -1,0 +1,1 @@
+This is a simple todo apllication using Rails 4!
